@@ -1,4 +1,4 @@
-This is a fork of the plugin by AppFeel that doesn't take 2% of your impressions. Changes were originally made by https://github.com/TheBosZ/admob-google-cordova.
+This is a fork of the plugin by AppFeel that doesn't take 2% of your impressions.
 
 Cordova AdMob plugin<br>[![License][license]][npm-url] [![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 ====================
