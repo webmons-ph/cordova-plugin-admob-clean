@@ -1,8 +1,5 @@
 This is a fork of the plugin by AppFeel that doesn't take 2% of your impressions. Changes were originally made by https://github.com/TheBosZ/admob-google-cordova.
 
-
-*<p style="font-size: small;" align="right"><a style="color:#232323" color="#232323" href="http://appfeel.com">Made in Barcelona with <span color="#FCB">Love</span> and <span color="#BBCCFF">Code</span></a></p>*
-
 Cordova AdMob plugin<br>[![License][license]][npm-url] [![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 ====================
 
